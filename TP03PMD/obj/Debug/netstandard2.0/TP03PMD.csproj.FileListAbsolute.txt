@@ -1,0 +1,16 @@
+C:\Users\Taynara Alves\source\repos\TP03PMD\TP03PMD\bin\Debug\netstandard2.0\TP03PMD.deps.json
+C:\Users\Taynara Alves\source\repos\TP03PMD\TP03PMD\bin\Debug\netstandard2.0\TP03PMD.dll
+C:\Users\Taynara Alves\source\repos\TP03PMD\TP03PMD\bin\Debug\netstandard2.0\ref\TP03PMD.dll
+C:\Users\Taynara Alves\source\repos\TP03PMD\TP03PMD\bin\Debug\netstandard2.0\TP03PMD.pdb
+C:\Users\Taynara Alves\source\repos\TP03PMD\TP03PMD\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Taynara Alves\source\repos\TP03PMD\TP03PMD\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Taynara Alves\source\repos\TP03PMD\TP03PMD\obj\Debug\netstandard2.0\Views\Aluno\MainPage.xaml.g.cs
+C:\Users\Taynara Alves\source\repos\TP03PMD\TP03PMD\obj\Debug\netstandard2.0\Views\Aluno\NovoAlunoView.xaml.g.cs
+C:\Users\Taynara Alves\source\repos\TP03PMD\TP03PMD\obj\Debug\netstandard2.0\TP03PMD.AssemblyInfoInputs.cache
+C:\Users\Taynara Alves\source\repos\TP03PMD\TP03PMD\obj\Debug\netstandard2.0\TP03PMD.AssemblyInfo.cs
+C:\Users\Taynara Alves\source\repos\TP03PMD\TP03PMD\obj\Debug\netstandard2.0\TP03PMD.dll
+C:\Users\Taynara Alves\source\repos\TP03PMD\TP03PMD\obj\Debug\netstandard2.0\ref\TP03PMD.dll
+C:\Users\Taynara Alves\source\repos\TP03PMD\TP03PMD\obj\Debug\netstandard2.0\TP03PMD.pdb
+C:\Users\Taynara Alves\source\repos\TP03PMD\TP03PMD\obj\Debug\netstandard2.0\TP03PMD.csprojAssemblyReference.cache
+C:\Users\Taynara Alves\source\repos\TP03PMD\TP03PMD\obj\Debug\netstandard2.0\TP03PMD.csproj.CoreCompileInputs.cache
+C:\Users\Taynara Alves\source\repos\TP03PMD\TP03PMD\obj\Debug\netstandard2.0\XamlC.stamp
